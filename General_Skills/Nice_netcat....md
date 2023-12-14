@@ -61,4 +61,4 @@ There is a nice program that you can talk to by using this command in a shell: `
 3- copy and take this output to a ASCII to Text converter like this one https://www.duplichecker.com/ascii-to-text.php<br>
 4- the flag is `picoCTF{g00d_k1tty!_n1c3_k1tty!_3d84edc8}`<br>
 # Screenshots
-![screenshot](General_Skills/Screenshot 2023-12-14 at 02-38-19 ASCII to Text Convert you ASCII code into Text.png)
+![](Screenshot 2023-12-14 at 02-38-19 ASCII to Text Convert you ASCII code into Text.png)
