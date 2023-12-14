@@ -1,8 +1,8 @@
 ### Nice netcat...
-Tags: ![](https://img.shields.io/badge/picoCTF_2021-blue)<br> ![](https://img.shields.io/badge/General Skills-red)
+Tags: ![](https://img.shields.io/badge/picoCTF_2021-blue) ![](https://img.shields.io/badge/General_Skills-red)
 
 ------------
-Author: syreal
+Author: syreal<br>
 **Description**
 There is a nice program that you can talk to by using this command in a shell: `$ nc mercury.picoctf.net 49039`, but it doesn't speak English...
 
