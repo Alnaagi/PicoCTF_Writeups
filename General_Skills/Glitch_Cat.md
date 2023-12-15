@@ -21,5 +21,4 @@ I know that 0x39 represents an hexadecimal character. And also, the chr function
 3- the output is:
 `picoCTF{gl17ch_m3_n07_bda68f75}`<br>
 # Screenshots
-![](glitchcat.png)<br>
 ![](glitchcat.solved.png)
