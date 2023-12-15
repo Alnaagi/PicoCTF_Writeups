@@ -1,4 +1,4 @@
-### ### what's a net cat?
+### what's a net cat?
 Tags: ![](https://img.shields.io/badge/picoCTF_2019-blue) ![](https://img.shields.io/badge/General_Skills-red)
 
 ------------
@@ -13,7 +13,7 @@ Using netcat (nc) is going to be pretty important. Can you connect to `jupiter.
 
 ------------
 # Solution
-1-  run this in the Terminal `nc jupiter.challenges.picoctf.org 41120<br>
+1-  run this in the Terminal `nc jupiter.challenges.picoctf.org 41120`<br>
 2- you will have this output:<br>
 `You're on your way to becoming the net cat master
 picoCTF{nEtCat_Mast3ry_3214be47}
