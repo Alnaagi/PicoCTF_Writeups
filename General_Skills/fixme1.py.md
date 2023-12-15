@@ -23,4 +23,5 @@ Unexpected indent. This line of code has more spaces at the start than the one b
 3- the output is:
 `That is correct! Here's your flag: picoCTF{1nd3nt1ty_cr1515_182342f7}`<br>
 # Screenshots
-![](fixme1.py.png)
+![](fixme1.py.png)<br>
+![](fixme1.py.solved.png)
