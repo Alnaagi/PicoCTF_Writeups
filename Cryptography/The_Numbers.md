@@ -15,4 +15,4 @@ The [numbers]( https://jupiter.challenges.picoctf.org/static/f209a32253affb6f547
 1-Look at the picture and at the Hint ther is a pattern<br>
 Explanation :<br>
 Through analysis of the picture and the {}, I identified a correlation between numbers and character alphabetical order,<br>
-2- The flag is :'PICOCTF{THENUMBERSMASON}'<br>
+2- The flag is :`PICOCTF{THENUMBERSMASON}`<br>
