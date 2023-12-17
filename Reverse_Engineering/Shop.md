@@ -2,7 +2,7 @@
 Tags: ![](https://img.shields.io/badge/Beginner_picoCTF_2021-blue) ![](https://img.shields.io/badge/Reverse_Engineering-red)
 
 ------------
-Author: thelshellbr>
+Author: thelshell<br>
 **Description**<br>
 Best Stuff - Cheap Stuff, Buy Buy Buy... Store Instance: source. The shop is open for business at `nc mercury.picoctf.net 24851`.
 ------------
