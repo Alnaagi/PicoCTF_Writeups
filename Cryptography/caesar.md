@@ -14,7 +14,7 @@ Decrypt this [message](https://jupiter.challenges.picoctf.org/static/7d707a443e9
 ------------
 # Solution
 1-Using a [Caesar Cipher](https://www.dcode.fr/caesar-cipher) Decoder <br>
-2-the most readebale Result is: crossingtherubicondjneoach<br>
+2-the most readable Result is: crossingtherubicondjneoach<br>
 3- the flag is:`picoCTF{crossingtherubicondjneoach}`<br>
 # Screenshots
 ![](Caesar.solved.png)
