@@ -32,7 +32,9 @@ To understand the program's functionalities, I read the `steghide --help` manual
 
 ![](phrase.png)<br>
 
-They didn't provide one in the CTF description nor the hints, so either I needed to look for the passphrase or I was doing something wrong. Thinking back, I found myself questioning the lack of instructions. Then, I remembered a phrase in the decrypted plan file: "IUSEDTHEPROGRAMANDHIDITWITH-DUEDILIGENCE.CHECKOUTTHEPHOTOS". The oddly phrased word "DUEDILIGENCE" sparked my curiosity, so I tried it on picture1.bmp - unfortunately, `steghide: could not extract any data with that passphrase!`<br>
+They didn't provide one in the CTF description nor the hints, so either I needed to look for the passphrase or I was doing something wrong.<br>
+Thinking back, I found myself questioning the lack of instructions. Then, I remembered a phrase in the decrypted plan file:<br> "IUSEDTHEPROGRAMANDHIDITWITH-DUEDILIGENCE.CHECKOUTTHEPHOTOS".<br>
+The oddly phrased word "DUEDILIGENCE" sparked my curiosity, so I tried it on picture1.bmp - unfortunately, `steghide: could not extract any data with that passphrase!`<br>
 ![](phrasepic1.png)
 same thing with picture2.bmp :<br>
 ![](phrasepic2.png)
