@@ -18,7 +18,7 @@ Figure out how they moved the [flag](https://mercury.picoctf.net/static/ed308d38
 ![](tftp.pcap.png)<br>
 Leveraging Wireshark's export capability `File->Export Objects->TFTP` , I retrieved the file and subsequently identified additional hidden objects. All files were then downloaded and archived, initiating the flag extraction process.<br>
 ![](export.pcap.png)<br>
-3-First thing I did was open instructions.txt, which contained an encrypted text. I didn't know what kind of encryption it was, so I entered it into a cipher identifier ([https://www.dcode.fr/cipher-identifier](https://www.dcode.fr/cipher-identifier)). The result identified it as a ROT-13 cipher ([https://www.dcode.fr/rot-13-cipher](https://www.dcode.fr/rot-13-cipher)), so I decrypted the text, and the result was:<br>
+3-First thing I did was open instructions.txt, which contained an encrypted text. I didn't know what kind of encryption it was, so I entered it into a  [cipher identifier](https://www.dcode.fr/cipher-identifier). The result identified it as a ROT-13 cipher [ROT-13 cipher](https://www.dcode.fr/rot-13-cipher), so I decrypted the text, and the result was:<br>
 `TFTPDOESNTENCRYPTOURTRAFFICSOWEMUSTDISGUISEOURFLAGTRANSFER FIGUREOUTAWAYTOHIDETHEFLAGANDIWILLCHECKBACKFORTHEPLAN`.<br>
 >TFTP DOESNT ENCRYPT OUR TRAFFIC SO WE MUST DISGUISE OUR FLAG TRANSFER FIGURE OUT AWAY TO HIDE THE FLAG AND IWILL CHECK BACK FOR THE PLAN.<br>
 
