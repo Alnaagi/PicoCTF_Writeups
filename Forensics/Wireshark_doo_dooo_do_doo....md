@@ -25,7 +25,7 @@ Can you find the flag? [shark1.pcapng](https://mercury.picoctf.net/static/4c996e
 
 ![](stream5.png)<br>
 
-3-took that text and paste it in a [Cipher Identifier](https://www.dcode.fr/cipher-identifier) looks like it's a [ROT-13 Cipher](https://www.dcode.fr/rot-13-cipher) 
+3-took that text and paste it in a [Cipher Identifier](https://www.dcode.fr/cipher-identifier), looks like it's a [ROT-13 Cipher](https://www.dcode.fr/rot-13-cipher) 
 
 ![](cipher.png)<br>
 
