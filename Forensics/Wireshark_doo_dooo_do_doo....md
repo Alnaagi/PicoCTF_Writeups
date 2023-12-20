@@ -17,7 +17,7 @@ Can you find the flag? [shark1.pcapng](https://mercury.picoctf.net/static/4c996e
 ------------
 # Solution
 
-1-opened the shark1.pcapng file there was tcp and http traffic <br>
+1-opened the shark1.pcapng file & there was TCP and HTTP traffic <br>
 
 ![](shark1.png)<br>
 
