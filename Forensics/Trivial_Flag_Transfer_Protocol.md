@@ -34,7 +34,11 @@ I didn't know what kind of encryption it was, so I entered it into a  [cipher id
 >TFTP DOESNT ENCRYPT OUR TRAFFIC SO WE MUST DISGUISE OUR FLAG TRANSFER FIGURE OUT AWAY TO HIDE THE FLAG AND IWILL CHECK BACK FOR THE PLAN.<br>
 
 then opened up file named plan it contained another [ROT-13 Cipher](https://www.dcode.fr/rot-13-cipher) the Result :<br>
+
 ![](plan.png)<br>
+
+the Result :<br>
+
 `IUSEDTHEPROGRAMANDHIDITWITH-DUEDILIGENCE.CHECKOUTTHEPHOTOS`<br>
 
 >I USED THE PROGRAM AND HID IT WITH -DUE DILIGENCE. CHECK OUT THE PHOTOS<br>
