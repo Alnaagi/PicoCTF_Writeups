@@ -26,15 +26,32 @@ Leveraging Wireshark's export capability `File->Export Objects->TFTP` , I retrie
 
 ![](export.pcap.png)<br>
 
-3-First thing I did was open instructions.txt, which contained an encrypted text. I didn't know what kind of encryption it was, so I entered it into a  [cipher identifier](https://www.dcode.fr/cipher-identifier). The result identified it as a ROT-13 cipher [ROT-13 cipher](https://www.dcode.fr/rot-13-cipher), so I decrypted the text, and the result was:<br>
+3-First thing I did was open instructions.txt, which contained an encrypted text. <br>
+![](instructions.png)<br>
+I didn't know what kind of encryption it was, so I entered it into a  [cipher identifier](https://www.dcode.fr/cipher-identifier). The result identified it as a ROT-13 cipher [ROT-13 cipher](https://www.dcode.fr/rot-13-cipher), so I decrypted the text, and the result was:<br>
 `TFTPDOESNTENCRYPTOURTRAFFICSOWEMUSTDISGUISEOURFLAGTRANSFER FIGUREOUTAWAYTOHIDETHEFLAGANDIWILLCHECKBACKFORTHEPLAN`.<br>
 
 >TFTP DOESNT ENCRYPT OUR TRAFFIC SO WE MUST DISGUISE OUR FLAG TRANSFER FIGURE OUT AWAY TO HIDE THE FLAG AND IWILL CHECK BACK FOR THE PLAN.<br>
 
 then opened up file named plan it contained another [ROT-13 Cipher](https://www.dcode.fr/rot-13-cipher) the Result :<br>
+![](plan.png)<br>
 `IUSEDTHEPROGRAMANDHIDITWITH-DUEDILIGENCE.CHECKOUTTHEPHOTOS`<br>
 
 >I USED THE PROGRAM AND HID IT WITH -DUE DILIGENCE. CHECK OUT THE PHOTOS<br>
+
+These are the Pictures : 
+
+>picture1.bmp<br>
+
+![](picture1.bmp)<br>
+
+>picture2.bmp<br>
+
+![](picture2.bmp)<br>
+
+>picture3.bmp<br>
+
+![](picture3.bmp)<br>
 
 After further inspection, I ran the `sudo dpkg -i program.deb` command to install the program.<br>
 The program name, turned out to be Steghide, a tool to embed or extract information from and into files.<br>
