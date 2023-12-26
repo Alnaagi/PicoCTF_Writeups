@@ -27,3 +27,5 @@ Find the flag being held on this server to get ahead of the competition [http://
 4-Changed the Request Method grom GET to HEAD and suprise suprise we got the flag
 
 ![](flag.png)
+
+5-flag: `picoCTF{r3j3ct_th3_du4l1ty_70bc61c4}`
